@@ -4,20 +4,6 @@ A clean, responsive personal portfolio website built for a fictional web develop
 
 ---
 
-## 🌐 Live Demo
-
-> _Coming soon — deploy via [GitHub Pages](https://pages.github.com/) to add a live link here._
-
----
-
-## 📸 Preview
-
-> _Add a screenshot of the website here._  
-> Tip: Take a screenshot and drag it into this README on GitHub, or use:  
-> `![Preview](assets/preview.png)`
-
----
-
 ## 🛠️ Built With
 
 - **HTML5** — Semantic structure and layout
