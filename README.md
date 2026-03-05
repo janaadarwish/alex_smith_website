@@ -4,6 +4,11 @@ A clean, responsive personal portfolio website built for a fictional web develop
 
 ---
 
+## 🌐 Live Demo
+👉 [View Live Site](https://janaadarwish.github.io/alex_smith_website/)
+
+---
+
 ## 🛠️ Built With
 
 - **HTML5** — Semantic structure and layout
